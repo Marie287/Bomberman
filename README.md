@@ -26,3 +26,8 @@
 **Personnage 2 (Daenerys)  :**
 * Pour se déplacer : <kbd>Z</kbd> <kbd>Q</kbd> <kbd>S</kbd> <kbd>D</kbd>
 * Pour déposer une bombe : <kbd>Espace</kbd>
+
+<br>
+<br>
+
+![Image du jeu](./images/capture.png)
